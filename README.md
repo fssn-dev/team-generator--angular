@@ -1,27 +1,111 @@
-# TeamGeneratorAngular
+<!-- PROJECT SHIELDS -->
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
+<div align="center">
 
-## Development server
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+</div>
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<br />
 
-## Build
+  <h3 align="center">Task Tracker</h3>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+  <p align="center">
+   Project from  <a href="https://www.youtube.com/watch?v=WHv1YQUg6ow">The Modern Angular Crash Course - 2022</a> from <a href="https://github.com/harblaith7/">Laith Harb</a>
+    <br />  
+    <a href="https://github.com/fssn-dev/team-generator--angular"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+     <!--
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    -->
+    <a href="https://github.com/fssn-dev/team-generator--angular/issues">Report Bug</a>
+    <!--
+    ·
+    <a href="#/issues">Request Feature</a>
+    <!--
+  </p>
+</div>
 
-## Running unit tests
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-## Running end-to-end tests
+Project to showcase  and develop Angular skills.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+Objective: Develop an app to add, list, toggle and delete tasks.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+### Built With
+
+* [VSCode](https://code.visualstudio.com/)
+* [Vue](https://vuejs.org/)
+* [Vue Router 4](https://next.router.vuejs.org/)
+* [json-server](https://github.com/typicode/json-server)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the APACHE 2.0 License. See `LICENSE.md` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@FSSN](https://www.linkedin.com/in/fssn)
+
+Project Link: [https://github.com/fssn-dev/team-generator--angular](https://github.com/fssn-dev/team-generator--angular)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGMENTS -->
+
+## Acknowledgments
+
+*[Laith Harb](https://github.com/harblaith7/)
+
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/fssn-dev/team-generator--angular.svg?style=for-the-badge
+[contributors-url]: https://github.com/fssn-dev/team-generator--angular/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/fssn-dev/team-generator--angular.svg?style=for-the-badge
+[forks-url]: https://github.com/fssn-dev/team-generator--angular/network/members
+[stars-shield]: https://img.shields.io/github/stars/fssn-dev/team-generator--angular.svg?style=for-the-badge
+[stars-url]: https://github.com/fssn-dev/team-generator--angular/stargazers
+[issues-shield]: https://img.shields.io/github/issues/fssn-dev/team-generator--angular.svg?style=for-the-badge
+[issues-url]: https://github.com/fssn-dev/team-generator--angular/issues
+[license-shield]: https://img.shields.io/github/license/fssn-dev/team-generator--angular.svg?style=for-the-badge
+[license-url]: https://github.com/fssn-dev/team-generator--angular/blob/main/License.md
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/fssn
