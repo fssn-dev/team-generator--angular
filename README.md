@@ -92,7 +92,7 @@ Project Link: [https://github.com/fssn-dev/team-generator--angular](https://gith
 
 ## Acknowledgments
 
-*[Laith Harb](https://github.com/harblaith7/)
+* [Laith Harb](https://github.com/harblaith7/)
 
 
 
