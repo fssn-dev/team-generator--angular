@@ -64,9 +64,8 @@ Objective: Develop an app to add, list, toggle and delete tasks.
 ### Built With
 
 * [VSCode](https://code.visualstudio.com/)
-* [Vue](https://vuejs.org/)
-* [Vue Router 4](https://next.router.vuejs.org/)
-* [json-server](https://github.com/typicode/json-server)
+* [Angular](https://angular.io/)
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
